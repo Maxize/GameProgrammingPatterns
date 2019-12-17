@@ -19,7 +19,7 @@
 
 ## 中文拷贝
 
-* [01 游戏编程模式](./content/01-游戏编程模式 - gpp.tkchu.me.png)
+* [01游戏编程模式](./content/01_Home.png)
 * [02 致谢](./content/02-致谢 · 游戏设计模式 - gpp.tkchu.me.png)
 * [03 序](./content/03-序 · 游戏设计模式 - gpp.tkchu.me.png)
 * [04 架构，性能和游戏](./content/04-架构，性能和游戏 · Introduction · 游戏设计模式 - gpp.tkchu.me.png)
